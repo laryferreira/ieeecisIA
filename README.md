@@ -1,4 +1,4 @@
-# IEEE Student Chapter - IA and ML
+# IEEE Student Chapter - AI and ML
 
 ### Cases and Notebooks:
 
